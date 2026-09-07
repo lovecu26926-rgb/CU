@@ -6,13 +6,11 @@
   "cu_tokens": [
     "CU",
     "씨유",
-    "포켓CU",
-    "BGF"
+    "포켓CU"
   ],
   "product_signal_tokens": [
     "신상",
     "신제품",
-    "단독",
     "콜라보",
     "출시",
     "품절",
@@ -52,16 +50,16 @@
     "CU 신제품",
     "CU 편의점 신상",
     "CU 품절",
-    "CU 단독",
-    "CU 콜라보"
+    "CU 단독 상품",
+    "CU 콜라보 상품"
   ],
   "youtube_queries": [
     "CU 신상",
     "씨유 신상",
     "CU 편의점 신상",
     "CU 품절",
-    "CU 단독",
-    "CU 콜라보"
+    "CU 단독 상품",
+    "CU 콜라보 상품"
   ],
   "trend_watch_terms": [
     "CU 신상",
